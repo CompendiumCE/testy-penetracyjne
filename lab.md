@@ -90,7 +90,7 @@ Allinurl:passwd.txt site: <nazwa strony>
 Query: allinurl:/.bash_history
 ```
 5. Z pomocą google-dorks dokonaj zaawansowanego wyszukiwania interesujących rzeczy dla wybranej domeny.
-[Google Hacking Database]https://www.exploit-db.com/google-hacking-database
+[Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 
 ## Ćwiczenie 6 – Discover
 >**Zasoby:**
