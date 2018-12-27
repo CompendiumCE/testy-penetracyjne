@@ -795,19 +795,12 @@ Oraz zmienić tę wartość na 0:
 Od tego momentu nic nie będzie zapisywane do pliku `~/.bash_history.`
 Czynność ta najlepiej wykonać od razu po włamaniu po czym przywrócić jej domyślną wartość.
 
-# OMIJANIE SYSTEMÓW IDS ORAZ FIREWALL
-
-## Ćwiczenie 1 - Veil-Framework
->**Zasoby:
-Kali Linux, Windows 2012
-
-TO DO
 
 # SET
 
 ## Ćwiczenie 1 – Atak phishingowy
 >**Zasoby:**
-Kali Linux, Windows XP
+Kali Linux, Windows 2012
 
 SET dostarcza nam wiele możliwości ataków. W tym ćwiczeniu przeprowadzimy ukierunkowany atak phishingowy, w którym utworzymy i prześlemy złośliwe pliki za pomocą poczty elektronicznej.
 Po otworzeniu pakietu SET przechodzimy kolejno:
